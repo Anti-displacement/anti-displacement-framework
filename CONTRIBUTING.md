@@ -4,7 +4,7 @@ Thank you for your interest in contributing.
 
 Anti-Displacement is an open initiative focused on understanding and designing frameworks for **human-AI collaboration and workforce resilience**.
 
-We welcome contributions from developers, researchers, founders, economists, and anyone interested in the future of human intelligence.
+We welcome contributions from developers, researchers, founders, economists, and anyone interested in athe future of human intelligence.
 
 ---
 
