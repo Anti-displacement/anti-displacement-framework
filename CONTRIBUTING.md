@@ -46,3 +46,33 @@ Please describe your changes clearly.
 ---
 
 ## Project Structure
+/docs → project documentation
+/research → studies and analysis
+/models → frameworks and scoring models
+/principles → philosophical and ethical foundations
+
+
+---
+
+## Guidelines
+
+To maintain quality:
+
+- Write clear and structured contributions
+- Provide sources for research
+- Keep discussions respectful
+- Focus on constructive ideas
+
+---
+
+## Code of Conduct
+
+All contributors must follow the guidelines described in **CODE_OF_CONDUCT.md**.
+
+---
+
+## Questions
+
+If you have questions or ideas, open a **GitHub Discussion** or create an issue.
+
+We appreciate your contributions.
