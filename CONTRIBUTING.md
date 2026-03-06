@@ -2,37 +2,32 @@
 
 Thank you for your interest in contributing.
 
-Anti-Displacement is an open initiative focused on understanding and designing frameworks for **human-AI collaboration and workforce resilience**.
-
-We welcome contributions from developers, researchers, founders, economists, and anyone interested in athe future of human intelligence.
-
----
+Anti-Displacement is an open initiative exploring human-AI collaboration frameworks and workforce resilience systems.
 
 ## Ways to Contribute
 
-You can contribute in several ways:
-
 ### Research
-- AI displacement analysis
-- Industry automation studies
-- Human-AI collaboration frameworks
+
+* Add analysis about AI impact on industries
+* Expand workforce transition studies
+* Improve existing research documents
 
 ### Models
-- Risk scoring systems
-- Decision frameworks
-- Augmentation models
+
+* Propose scoring systems for AI displacement risk
+* Develop human-AI collaboration frameworks
+* Improve existing models
 
 ### Documentation
-- Improve explanations
-- Add examples
-- Expand research summaries
 
-### Community
-- Discussions
-- Proposals
-- Thoughtful feedback
+* Improve clarity of documents
+* Add examples or case studies
 
----
+### Tools (Future Phase)
+
+* Build analysis dashboards
+* Develop data models
+* Create visualization tools
 
 ## Contribution Process
 
@@ -41,38 +36,6 @@ You can contribute in several ways:
 3. Make your changes
 4. Submit a Pull Request
 
-Please describe your changes clearly.
+Example:
 
----
-
-## Project Structure
-/docs → project documentation
-/research → studies and analysis
-/models → frameworks and scoring models
-/principles → philosophical and ethical foundations
-
-
----
-
-## Guidelines
-
-To maintain quality:
-
-- Write clear and structured contributions
-- Provide sources for research
-- Keep discussions respectful
-- Focus on constructive ideas
-
----
-
-## Code of Conduct
-
-All contributors must follow the guidelines described in **CODE_OF_CONDUCT.md**.
-
----
-
-## Questions
-
-If you have questions or ideas, open a **GitHub Discussion** or create an issue.
-
-We appreciate your contributions.
+git checkout -b research/industry-analysis
